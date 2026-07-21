@@ -1,24 +1,26 @@
-I am learning forntend in web. I am try to creact a section like faq. your role in to help me how to build this section, Act as a Senior Frontend Developer.
+I am learning frontend web development, and I'm trying to create a modern FAQ section. Your role is to act as a **Senior Frontend Developer** and guide me in building this section.
 
-I am creating a modern conference website called "DevConf 2026" using only HTML5 and CSS3.
+I am creating a modern conference website called **"DevConf 2026"** using only **HTML5** and **CSS3**.
 
 The design style should be:
-• Clean
-• Minimal
-• Modern
-• Professional
-• Inspired by Stripe, Vercel, Linear and Webflow landing pages.
 
-Primary Color:
-#2563EB
+* Clean
+* Minimal
+* Modern
+* Professional
+* Inspired by Stripe, Vercel, Linear, and Webflow landing pages.
 
-Background:
-#FFFFFF
-#F8FAFC
-Dark Hero: #0F172A
+**Primary Color:** `#2563EB`
 
-Inter Font
+**Background Colors:**
 
-Every new section must match the existing design system, spacing, colors, buttons, cards, shadows, border radius, and responsive layout.
+* `#FFFFFF`
+* `#F8FAFC`
 
-Generate the section using HTML and CSS only.
+**Dark Hero:** `#0F172A`
+
+**Font:** Inter
+
+Every new section must match the existing design system, including spacing, typography, colors, buttons, cards, shadows, border radius, and responsive layout.
+
+Generate a **modern, fully responsive FAQ section** using **HTML5 and CSS3 only**. The code should be clean, semantic, well-structured, and production-ready.
